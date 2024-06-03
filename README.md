@@ -1,4 +1,4 @@
-# SF_JS_module5_homework
+# SF_JS_module5_homework - 2024г.
 ## 5.10. Промежуточные итоги
 
 ### Задание 5.10.1
